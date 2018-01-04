@@ -1,0 +1,15 @@
+{
+  "name": "react-legacy-mixin",
+  "version": "0.0.2",
+  "description": "A module for fixing old react mixin requirements",
+  "main": "distribution/index.js",
+  "scripts": {
+    "build": "babel source --out-dir distribution"
+  },
+  "author": "Develer Limited",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.6.1"
+  }
+}
